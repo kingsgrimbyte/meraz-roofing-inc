@@ -1,0 +1,81 @@
+{
+  "metaTitle": "Roofing Services in [location]",
+  "metaDescription": "Trusted local roofing experts offering new roof installation, roof replacement, cleaning, repairs, inspections, and leak assessment. Call [phone]",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_bannerImage_W3oXzo1DH.jpg",
+  "h1Banner": "Roofing Services in [location]",
+  "p1Banner": "Trusted local roofing experts offering new roof installation, roof replacement, cleaning, repairs, inspections, and leak assessment. Call [phone]",
+  "serviceTitle": "Reliable Roofing Services for Every Roof",
+  "serviceData": {
+    "title": "Your Roof, Protected with Honest, Local Craftsmanship",
+    "p": "Meraz Roofing Inc. is a licensed, insured roofing contractor with decades of hands-on experience, offering clear estimates, workmanship warranties, and courteous crews you can trust in [location].",
+    "lists": [
+      {
+        "title": "New roof installation in [location]",
+        "description": "Call Us At [phone]. We provide professional new roof installation for homes and light commercial buildings, handling material selection, deck preparation, and full installation with care.",
+        "h2": "Start Strong with a Quality New Roof Installation",
+        "p2": "When it's time for a new roof installation, our team manages every step — from tear-off (if needed) and underlayment to flashing and finished roofing. We guide you through shingle or metal choices, energy-efficient options, and timelines so your project runs smoothly.",
+        "h3": "What to Expect During Installation",
+        "p3": "Site assessment | Precise measurements | Professional decking prep | High-quality underlayment | Accurate flashing and ventilation | Clean jobsite at completion",
+        "seoContent": "<h2>New roof installation services</h2><p>Meraz Roofing Inc. specializes in dependable new roof installation for single-family homes and small commercial properties. We begin with a thorough roof deck inspection and recommend the best materials—architectural shingles, metal panels, or high-performance membranes—based on your budget and home style. Our crews follow industry best practices for ventilation and flashing to extend roof life and prevent common problems. We provide written estimates, clear timelines, and a full cleanup so you know exactly what to expect. Call [phone] for a free consultation.</p>",
+        "slug": "new-roof-installation",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_serviceData_lists_0_imageUrl_ECqy04K17.jpg"
+      },
+      {
+        "title": "Roof replacement in [location]",
+        "description": "Call Us At [phone]. Roof replacement service for aged or damaged roofs—complete removal, structural checks, and professional installation using quality materials.",
+        "h2": "Roof Replacement When Repair Isn't Enough",
+        "p2": "If your roof has reached the end of its lifespan or sustained severe damage, a full roof replacement restores weather protection and curb appeal. We remove old materials, inspect and repair decking, and install a long-lasting system.",
+        "h3": "Signs You Need a Roof Replacement",
+        "p3": "Widespread shingle loss | Granule loss in gutters | Sagging deck | Recurrent leaks | Multiple previous repairs | Age over manufacturer lifespan",
+        "seoContent": "<h2>Professional roof replacement</h2><p>Our roof replacement process focuses on long-term performance. After removing the existing roof, we inspect and repair the roof deck, replace underlayment and flashing, and install a new roof system chosen for durability and warranty coverage. We work with trusted manufacturers and can help coordinate color and style choices to improve value and energy efficiency. Financing options and detailed warranties are available; call [phone] to discuss a replacement plan tailored to your home.</p>",
+        "slug": "roof-replacement",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_serviceData_lists_1_imageUrl_non3CI8Mmr.jpg"
+      },
+      {
+        "title": "Roof cleaning in [location]",
+        "description": "Call Us At [phone]. Safe, effective roof cleaning to remove moss, algae, and debris—restoring appearance and preventing damage without harming roofing materials.",
+        "h2": "Extend Roof Life with Professional Roof Cleaning",
+        "p2": "Regular roof cleaning removes organic growth and buildup that hold moisture and accelerate wear. We use low-pressure washing and appropriate cleaners to protect shingles and surrounding landscaping.",
+        "h3": "Benefits of Routine Cleaning",
+        "p3": "Improved curb appeal | Reduced algae and mold growth | Extended shingle life | Better drainage | Preventative maintenance",
+        "seoContent": "<h2>Roof cleaning services</h2><p>Meraz Roofing Inc. offers roof cleaning services that improve both the look and the longevity of your roof. Our soft-wash cleaning process eliminates moss, algae, and lichen without damaging shingles or coatings. We protect gutters, plants, and siding during the process and recommend a maintenance schedule to prevent recurrence. Clean roofs reflect heat more effectively and reduce the risk of decay—schedule a cleaning by calling [phone].</p>",
+        "slug": "roof-cleaning",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_serviceData_lists_2_imageUrl_gukdd57cUH.jpg"
+      },
+      {
+        "title": "Roof repair in [location]",
+        "description": "Call Us At [phone]. Fast, reliable roof repair for storm damage, missing shingles, flashing issues, and other common problems to stop leaks and prevent further damage.",
+        "h2": "Quick, Lasting Roof Repair",
+        "p2": "From shingle replacement to flashing repairs and patching damaged decking, our repairs are performed with quality materials and cleanup included. We prioritize emergency repairs to protect your home from water intrusion.",
+        "h3": "Common Repairs We Handle",
+        "p3": "Shingle replacement | Flashing repair | Vent and pipe boot fixes | Gutter and drip edge repairs | Storm and wind damage fixes",
+        "seoContent": "<h2>Reliable roof repair services</h2><p>Whether you have a small leak or storm damage, our experienced technicians diagnose the issue and repair it correctly the first time. We document damage with photos for insurance claims, provide transparent estimates, and offer guidance on whether repair or replacement is the smarter option for your property. For emergency tarping or temporary protection, call [phone] and we'll respond promptly.</p>",
+        "slug": "roof-repair",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_serviceData_lists_3_imageUrl_2sunAviMA.jpg"
+      },
+      {
+        "title": "Roof Inspection in [location]",
+        "description": "Call Us At [phone]. Comprehensive roof inspection to assess condition, identify hidden issues, and provide a clear maintenance or replacement plan.",
+        "h2": "Thorough Roof Inspection to Protect Your Investment",
+        "p2": "Our roof inspections cover interior and exterior checks: attic ventilation, flashing, shingles, gutters, and chimney seals. We provide a written report with photos and professional recommendations.",
+        "h3": "Inspection Report Includes",
+        "p3": "Roof condition rating | Priority repairs | Estimated remaining lifespan | Photos and maintenance tips | Insurance documentation support",
+        "seoContent": "<h2>Detailed roof inspection services</h2><p>A professional roof inspection can uncover small problems before they become costly. Our inspectors evaluate structural components, check for moisture intrusion in the attic, and verify that ventilation and flashing meet standards. We provide clear findings and options—repair, maintenance, or replacement—so you can budget and plan with confidence. Schedule an inspection at [phone].</p>",
+        "slug": "roof-inspection",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_serviceData_lists_4_imageUrl_t5xUC9iZD.jpg"
+      },
+      {
+        "title": "Leak Assessment in [location]",
+        "description": "Call Us At [phone]. Accurate leak assessment to locate sources of water intrusion, stop leaks quickly, and recommend durable solutions.",
+        "h2": "Find and Fix Leaks with Expert Leak Assessment",
+        "p2": "Leaks often hide under shingles or through flashing failures. We use visual inspection, moisture meters, and infrared tools when needed to pinpoint the source and propose targeted repairs.",
+        "h3": "How We Approach Leak Assessment",
+        "p3": "Comprehensive roof and attic inspection | Moisture mapping | Flashing and penetration checks | Repair plan with cost estimate | Insurance claim assistance",
+        "seoContent": "<h2>Professional leak assessment</h2><p>When water appears inside your home, fast and accurate leak assessment is essential. Our trained technicians trace water entry points, document damage, and provide a repair plan that addresses both symptoms and causes to prevent recurrence. We work with homeowners and insurance providers to streamline claims and ensure the repair meets long-term performance expectations. Call [phone] for same-day leak assessments and emergency response.</p>",
+        "slug": "leak-assessment",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/merazroofinginc_net/Roofing_Services_servicePage_serviceData_lists_5_imageUrl_1DCM1YbiY.jpg"
+      }
+    ]
+  }
+}
